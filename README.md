@@ -17,7 +17,7 @@ Venho do universo de projetos e design, então cuido da estrutura, da usabilidad
 
 ## 🚀 Projetos em destaque
 - **[Gerador de Orçamentos](https://github.com/NickValle/Gerador-Orcamentos)** | Gera orçamentos profissionais em PDF para a empresa do meu pai. JavaScript + jsPDF. [Ver online](https://gerador-orcamentos-eta.vercel.app)
-- **[Pixelin - Monitor de ciclo menstrual](https://github.com/NickValle/Pixelin-monitor-cycle)** | software que monitora o ciclo menstrual, ovulacao, ciclo fertil. Com a interface voltada pro lado pixel 👾
+- **[Pixelin - Monitor de ciclo menstrual](https://github.com/NickValle/Pixelin-monitor-cycle)** | software que monitora o ciclo menstrual, ovulacao, ciclo fertil. Com a interface voltada pro lado pixel 👾 [Ver no ar](https://pixelin.vercel.app)
 - **[Projeto 3]()** | uma linha dizendo o que faz
 
 ## 🎨 Além do código
