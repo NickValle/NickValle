@@ -24,4 +24,4 @@ Venho do universo de projetos e design, então cuido da estrutura, da usabilidad
 Também atuo com projetos de arquitetura, representação gráfica e design gráfico, o que me ajuda a pensar em interfaces com mais atenção a layout, hierarquia e consistência visual.
 
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/nicole-aparecida-do-valle-gurgel-364160201) · [E-mail](mailto:nicolevalegurgel22@gmail.com)
+[LinkedIn]([www.linkedin.com/in/nicole-aparecida-do-valle-gurgel-364160201](https://www.linkedin.com/in/nicole-aparecida-do-valle-gurgel-364160201/)) · [E-mail](mailto:nicolevalegurgel22@gmail.com)
