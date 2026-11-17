@@ -25,10 +25,3 @@ Também atuo com projetos de arquitetura, representação gráfica e design grá
 
 ## 📫 Contato
 [LinkedIn](www.linkedin.com/in/nicole-aparecida-do-valle-gurgel-364160201) · [E-mail](mailto:nicolevalegurgel22@gmail.com)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/NicoleValleGurgel/NicoleValleGurgel/blob/output/github-contribution-grid-snake.gif">
-</picture>
